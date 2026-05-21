@@ -4,7 +4,7 @@ This home lab is engineered as a highly dynamic, multi-scenario simulation envir
 
 The diagram below outlines the core, unchanging structural zones and trust boundaries of the environment:
 
-![Home Lab Network Topology](network-topology.png)
+
 
 ### Operational Subnet Matrix
 
