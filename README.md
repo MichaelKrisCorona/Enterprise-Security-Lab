@@ -14,3 +14,5 @@ To accommodate fluid testing pipelines, network routing shifts based on the acti
   The Emulation Host is positioned externally, routing adversarial traffic through the WAN interface of the OPNsense gateway to test ingress filtering, firewall rule efficacy, and edge-defense postures.
 * **Scenario B: "Assume Breach" & Insider Threat (Internal Segments)**
   The Emulation Host is retrofitted onto an isolated internal host-only segment (`vmnet2`). It assumes an internal footprint (`10.0.0.7`) to simulate a compromised endpoint, lateral movement vectors, and east-west traffic visibility to the Debian production target and REMnux sandbox.
+
+![Home Lab Network Topology](network-topology.png)
