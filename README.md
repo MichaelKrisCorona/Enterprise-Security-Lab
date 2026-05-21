@@ -15,3 +15,5 @@ An exhaustive connectivity audit was executed across the unified range to verify
 * `Kali (10.0.0.7) -> Debian Server (10.0.0.5)` : **0% Packet Loss** (East-West Vector Live)
 * `Kali (10.0.0.7) -> REMnux Sandbox (10.0.0.6)` : **0% Packet Loss** (Forensic Adjacency Live)
 * `Kali (10.0.0.7) -> Public WAN (google.com)` : **0% Packet Loss** (Egress Allowed via Firewall)
+
+![Network Topology](network-topology.png)
